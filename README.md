@@ -25,7 +25,7 @@
 <h3 align="center">•『♡』• My Goals •『♡』•</h3>
 
 <div align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,unity,&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,unity>
   </a></div>
 
 
