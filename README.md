@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=C++,unreal,unity,&perline=6" />
   </a>
 </p>
 </div>
