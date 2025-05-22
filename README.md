@@ -18,15 +18,15 @@
 <h3 align="center">•『♡』• My Skills •『♡』•</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=C++,unreal,unity,&perline=6" />
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></
 </p>
 </div>
 
 <h3 align="center">•『♡』• My Goals •『♡』•</h3>
 
-<div align="center"><a href="#"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></div>
+<div align="center"><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,unity,&perline=6" />
+  </a>div>
 
 
 <hr/>
