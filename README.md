@@ -48,7 +48,7 @@
   </ol>
 </details>
 
-<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Hai-hay/Hai-hay/blob/main/BuyMeow.png"></a></div>
+<div align="center" width="150"><a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Hai-hay/Hai-hay/blob/main/BuyMeow.png"></a></div>
 
 <hr/>
 </ol>
