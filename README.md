@@ -20,7 +20,7 @@
 
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
 
-- <img src="https://github.com/Hai-hay/Hai-hay/blob/main/lynk.png" width="35"/>
+- <img src="https://github.com/Hai-hay/Hai-hay/blob/main/lynk.png" width="45"/>
 
   </ol>
 </details>
@@ -43,7 +43,7 @@
 <h3 align="center">•『♡』• My Goals •『♡』•</h3>
 
 <div align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,threejs,firebase,cpp,"/>
+    <img src="https://skillicons.dev/icons?i=react,threejs,firebase,cpp"/>
   </a></div>
 
 
