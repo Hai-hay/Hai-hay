@@ -8,7 +8,7 @@
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/1286507076490756127.gif" width="30"/> I'm a `Beginner`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/tumblr_89ae883d6fd6bed81865a4e48b978f06_e3837a08_250.gif%20(1).gif" width="30"/> First time learn on `2024`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="28"/> Fullstack dev `Yes`
-- <details> <img src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/>
+-  <img src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/><details>
   <summary>Find me on</summary>
   <ol>
 
