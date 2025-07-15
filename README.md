@@ -20,7 +20,7 @@
 
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
 
-- <img src="https://github.com/Hai-hay/Hai-hay/blob/main/lynk.png" width="45"/>
+- <a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Hai-hay/Hai-hay/blob/main/lynk.png" width="45"/>
 
   </ol>
 </details>
@@ -45,11 +45,6 @@
 <div align="center"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,threejs,firebase,cpp"/>
   </a></div>
-
-
-<hr/>
-
-<div align="center"><a href="http://lynk.id/payme/haihaay"><img width="200" src="https://github.com/Hai-hay/Hai-hay/blob/main/BuyMeow.png"></a></div>
 
 <hr/>
 </ol>
