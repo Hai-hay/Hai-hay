@@ -41,7 +41,7 @@
 <h3 align="center">•『♡』• My Goals •『♡』•</h3>
 
 <div align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,threejs,firebase,cpp,unity,unreal"/>
+    <img src="https://skillicons.dev/icons?i=react,threejs,firebase,cpp"/>
   </a></div>
 
 
