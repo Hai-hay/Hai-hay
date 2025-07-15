@@ -5,11 +5,11 @@
 <img align="right" width="150" src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-cobalt-b-tower-of-fantasy-cobalt%20(1).gif">
 
 ╭──╯ . . . I̥ͦn̥ͦt̥ͦr̥ͦo̥ͦd̥ͦu̥ͦc̥ͦt̥ͦi̥ͦo̥ͦn̥ͦ . . . ╰──╮
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/1286507076490756127.gif" width="30"/> I'm a `Beginner`
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/tumblr_89ae883d6fd6bed81865a4e48b978f06_e3837a08_250.gif%20(1).gif" width="30"/> First time learn on `2024`
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="28"/> Fullstack dev `Yes`
+- <img src="https://github.com/Haihaay/Haihaay/blob/main/1286507076490756127.gif" width="30"/> `I'm a Beginner`
+- <img src="https://github.com/Haihaay/Haihaay/blob/main/tumblr_89ae883d6fd6bed81865a4e48b978f06_e3837a08_250.gif%20(1).gif" width="30"/> `First time learn on 2024`
+- <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="28"/> `Fullstack dev`
 - <details>
-  <summary>Find me on</summary>
+  <summary>`Find me on`</summary>
   <ol>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1102899938263826482)
