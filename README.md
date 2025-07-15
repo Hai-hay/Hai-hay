@@ -8,7 +8,7 @@
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/1286507076490756127.gif" width="30"/> I'm a `Beginner`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/tumblr_89ae883d6fd6bed81865a4e48b978f06_e3837a08_250.gif%20(1).gif" width="30"/> First time learn on `2024`
 - <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="28"/> Fullstack dev `Yes`
--  <img src="https://github.com/Haihaay/Haihaay/blob/main/tower-of-fantasy-tower-of-fantasy-fiona.gif" width="30"/><details>
+- <details>
   <summary>Find me on</summary>
   <ol>
 
@@ -46,21 +46,6 @@
 
 
 <hr/>
-
-<details>
-  <summary>Find me on</summary>
-  <ol>
-
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1102899938263826482)
- 
-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Haihay_guys)
-
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-
-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
-
-  </ol>
-</details>
 
 <div align="center"><a href="http://lynk.id/payme/haihaay"><img width="200" src="https://github.com/Hai-hay/Hai-hay/blob/main/BuyMeow.png"></a></div>
 
