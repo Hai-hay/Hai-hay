@@ -49,7 +49,7 @@
 <hr/>
 </ol>
 
-<img src="https://github.com/Haihaay/Haihaay/blob/main/908262795672436746.gif" width="30"/> いっしょにあそびましょう~ ! !
+<img src="https://github.com/Haihaay/Haihaay/blob/main/908262795672436746.gif" width="30"/> 見ないよ~ ! !
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hai-hay /Hai-hay /output/pacman-contribution-graph-dark.svg">
