@@ -5,9 +5,10 @@
 <img align="right" width="150" src="https://github.com/Hai-hay/Hai-hay/blob/main/dum.png">
 
 ╭──╯ . . . I̥ͦn̥ͦt̥ͦr̥ͦo̥ͦd̥ͦu̥ͦc̥ͦt̥ͦi̥ͦo̥ͦn̥ͦ . . . ╰──╮
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/1286507076490756127.gif" width="30"/> `I'm a Beginner`
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/tumblr_89ae883d6fd6bed81865a4e48b978f06_e3837a08_250.gif%20(1).gif" width="30"/> `First time learn on 2024`
-- <img src="https://github.com/Haihaay/Haihaay/blob/main/1320083416334471199.gif" width="28"/> `Fullstack dev`
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer`
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist [Pentester & Bug Hunter] `
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [Unity6 & UE5]`
+
 - <details>
   <summary>Find me on</summary>
   <ol>
