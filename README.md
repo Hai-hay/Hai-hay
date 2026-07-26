@@ -9,22 +9,7 @@
 - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist [Pentester & Bug Hunter] `
 - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [Unity6 & UE5]`
 
-- <details>
-  <summary>Find me on</summary>
-  <ol>
 
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1082893687660486656)
- 
-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Haihay_guys)
-
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-
-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
-
-- <a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Hai-hay/Hai-hay/blob/main/lynk.png" width="45"/>
-
-  </ol>
-</details>
 ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ｡°✩｡°･:*:･:*:･ﾟ｡☽
 
 <hr/>
