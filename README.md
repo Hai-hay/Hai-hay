@@ -5,9 +5,7 @@
 <img align="right" width="150" src="https://github.com/Hai-hay/Hai-hay/blob/main/dum.png">
 
 ╭──╯ . . . I̥ͦn̥ͦt̥ͦr̥ͦo̥ͦd̥ͦu̥ͦc̥ͦt̥ͦi̥ͦo̥ͦn̥ͦ . . . ╰──╮
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer`
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist [Pentester & Bug Hunter] `
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [Unity6 & UE5]`
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Fullstuck developer '
 
 
 ⚬⁺˚⋆｡°✩₊･:*:｡･:*:･ﾟ｡°✩｡°･:*:･:*:･ﾟ｡☽
