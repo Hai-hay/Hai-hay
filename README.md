@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Haihaay/Haihaay/blob/main/GIF_20250502_072438_650%20(1).gif) 
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=You+have+reached+your+free+limit+QwQ" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&width=435&lines=You+have+reached+your+free+limit+QwQ" alt="Typing SVG" /></h1>
 
 <img align="right" width="120" src="https://github.com/Hai-hay/Hai-hay/blob/main/dum.png">
 
